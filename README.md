@@ -1,2 +1,2 @@
 # Journal_site
-daily journal
+daily journal site
